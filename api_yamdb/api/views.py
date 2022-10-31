@@ -3,9 +3,10 @@ from django.shortcuts import get_object_or_404
 from django_filters.rest_framework import DjangoFilterBackend
 from rest_framework import filters, viewsets
 
-from reviews.models import Category, Genre, Review, Title
 from api.permissions import AuthorOrAdminOrReadOnly
 from api.serializers import CommentSerializer, ReviewSerializer
+from reviews.models import Category, Genre, Review, Title
+
 from .firters import TitlesFilter
 from .mixins import ListCreateDestroyGenericViewSet
 from .permissions import IsAdminOrReadOnly
