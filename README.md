@@ -23,7 +23,7 @@
 1. Клонировать репозиторий:
 
     ```python
-    git clone https://github.com/egorcoders/yamdb_final.git
+    git clone https://github.com/EvginiyGrebenchuk/yamdb_final.git
     ```
 
 2. Создать `.env` файл на уровне с файлом `docker-compose.yaml` в директории infra с указаниме данных:
@@ -103,5 +103,5 @@
 
     ```python
     http://localhost/admin
-    http://51.250.80.244/admin
+    http://158.160.32.246/admin
     ```
