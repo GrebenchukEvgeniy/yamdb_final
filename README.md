@@ -1,6 +1,8 @@
 # Проект YaMDb
 ![example workflow](https://github.com/GrebenchukEvgeniy/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+Чтобы проверить развернутый проект, в самом низу, в пункте 7 указан IP :)
+
 [![Python](https://img.shields.io/badge/-Python-464641?style=flat-square&logo=Python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-464646?style=flat-square&logo=Django)](https://www.djangoproject.com/)
 [![Pytest](https://img.shields.io/badge/-Pytest-464646?style=flat-square&logo=pytest)](https://docs.pytest.org/en/6.2.x/)
@@ -103,6 +105,5 @@
 7. Проверить доступность сервиса:
 
     ```python
-    http://localhost/admin
     http://158.160.32.246/admin
     ```
