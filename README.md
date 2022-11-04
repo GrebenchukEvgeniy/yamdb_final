@@ -1,5 +1,5 @@
 # Проект YaMDb
-![example workflow](https://github.com/GrebenchukEvginiy/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![example workflow](https://github.com/GrebenchukEvgeniy/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 [![Python](https://img.shields.io/badge/-Python-464641?style=flat-square&logo=Python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-464646?style=flat-square&logo=Django)](https://www.djangoproject.com/)
